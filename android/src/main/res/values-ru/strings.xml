@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="flash_off">Вкл подсветку</string>
-    <string name="flash_on">Выкл подсветку</string>
+    <string name="flash_off">Выкл подсветку</string>
+    <string name="flash_on">Вкл подсветку</string>
 </resources> 
